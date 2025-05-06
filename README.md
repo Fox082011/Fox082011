@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fox082011
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Pyhon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me whit my email
 - 😄 Pronouns: she/her
